@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+  
+    "name": "PublixSub Chrome Plugin",
+    "description": "This extension runs Python code to order a Publix Sub.",
+    "version": "1.0",
+  
+    "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "https://ajax.googleapis.com/"
+    ]
+  }

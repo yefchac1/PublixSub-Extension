@@ -13,4 +13,6 @@ This bot was created to automatically order my favorite chicken tender sub sandw
 
 It should do everything in less than a 1 minute ✌️
 
+Originally, the bot was created in Python with Selenium, but I wanted to make it a Chrome Extension, so I switched to Puppeteer to reach my goal.
+  
 ##YC##
